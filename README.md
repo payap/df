@@ -3,7 +3,7 @@ Deep Fingerprinting
 
 The source code and dataset are used to demonstrate the DF model, and reproduce the results of the ACM CCS2018 paper:
 
-## ACM Reference Formant
+## ACM Reference Format
 ```
 Payap Sirinam, Mohsen Imani, Marc Juarez, and Matthew Wright. 2018.
 Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning. 
